@@ -1,0 +1,27 @@
+package com.ie.wrongcode;
+
+public class WrongCode {
+	public static void main(String[] args) {
+
+		 System.out.println(fixSpelling("hostleworld"));
+
+		 }
+
+	private static char[] fixSpelling(String name) {
+		// TODO Auto-generated method stub
+		String wordToCheck = new String(name);
+
+		 if(wordToCheck == "hostleworld" ) {
+
+		 name = "hostelworld";
+
+		 } else {
+
+		 fixSpelling(name);
+
+		 }
+
+		 return name;
+	}
+
+}

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1440441230061
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1440441230061
+os,sysinfo,,,"win32",1440441230076
+arch,sysinfo,,,"x86",1440441230076
+ws,sysinfo,,,"win32",1440441230076
+locale,sysinfo,,,"pt_BR",1440441230076
+processors,sysinfo,,,"4",1440441230076
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1440441230076
+java.runtime.version,sysinfo,,,"1.8.0_51-b16",1440441230076
+java.specification.name,sysinfo,,,"Java Platform API Specification",1440441230076
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1440441230076
+java.specification.version,sysinfo,,,"1.8",1440441230076
+java.vendor,sysinfo,,,"Oracle Corporation",1440441230076
+java.version,sysinfo,,,"1.8.0_51",1440441230076
+java.vm.info,sysinfo,,,"mixed mode",1440441230076
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1440441230076
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1440441230076
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1440441230076
+java.vm.specification.version,sysinfo,,,"1.8",1440441230076
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1440441230076
+java.vm.version,sysinfo,,,"25.51-b03",1440441230076
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1440441230233
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1440441230233
+started,bundle,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console",1440441230529
+started,bundle,org.eclipse.ecf.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.filetransfer",1440441230858

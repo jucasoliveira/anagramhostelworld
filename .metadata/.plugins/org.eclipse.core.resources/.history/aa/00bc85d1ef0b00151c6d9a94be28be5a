@@ -1,0 +1,35 @@
+package automationMobile;
+
+import java.util.Comparator;
+
+public class compareList {
+	
+	public interface Comparator<T> {
+	    int compare(T o1, T o2);
+	}
+	public abstract class ListHostel implements Comparator<sortByName> {
+		
+		public String getText() {
+			return getText();
+		}
+			
+		
+		public static Comparator<T> FruitNameComparator = new Comparator<T>() {
+	
+	public int compare(Fruit fruit1, Fruit fruit2) {
+	
+	String fruitName1 = fruit1.getFruitName().toUpperCase();
+	String fruitName2 = fruit2.getFruitName().toUpperCase();
+	
+	//ascending order
+	return fruitName1.compareTo(fruitName2);
+	
+	//descending order
+	//return fruitName2.compareTo(fruitName1);
+	}
+	
+	};
+	}
+  
+
+}

@@ -1,0 +1,18 @@
+package automationMobile;
+
+import java.util.Comparator;
+
+public class compareList {
+	
+	public interface Comparator<T> {
+	    int compare(T o1, T o2);
+	}
+	public abstract class ListHostel implements Comparator<sortByName> {
+	    public int compare(sortByName allItems, sortByName outraConta) {
+	        return allItems.getClass().
+	                compareTo(outraConta.getClass());
+	    }
+	}
+  
+
+}

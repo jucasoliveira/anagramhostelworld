@@ -1,0 +1,17 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433722649326
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433722651448
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433722659708
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1433722668384
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433722668964
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931405810
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1433931406092
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931406734
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931413774
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931424795
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931426641
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1433931427195
+error,log,,,"Could not save master table to file 'C:\\Users\\jucas.oliveira\\Documents\\Anagrama\\.metadata\\.plugins\\org.eclipse.core.resources\\.safetable\\org.eclipse.core.resources'.",1433931427601
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1433931428428
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1433931428433
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1433931428437
